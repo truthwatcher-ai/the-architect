@@ -1,0 +1,42 @@
+{
+  "name": "the-architect",
+  "owner": {
+    "name": "truthwatcher-ai"
+  },
+  "metadata": {
+    "description": "Write about Malaysian politics in Karl Rove's voice — data-driven, strategically detached, historically grounded political commentary",
+    "version": "0.1.0"
+  },
+  "plugins": [
+    {
+      "name": "the-architect",
+      "source": "./",
+      "description": "Write about Malaysian politics in Karl Rove's voice — data-driven, strategically detached, historically grounded political commentary with three registers: column, pundit, and strategy memo.",
+      "version": "0.1.0",
+      "author": {
+        "name": "truthwatcher-ai"
+      },
+      "license": "MIT",
+      "keywords": [
+        "karl-rove",
+        "writing-style",
+        "voice",
+        "malaysia",
+        "politics",
+        "political-commentary",
+        "op-ed",
+        "strategy-memo",
+        "coalition",
+        "elections"
+      ],
+      "category": "writing",
+      "tags": [
+        "political-writing",
+        "voice-plugin",
+        "malaysian-politics",
+        "data-driven-analysis",
+        "the-architect"
+      ]
+    }
+  ]
+}
