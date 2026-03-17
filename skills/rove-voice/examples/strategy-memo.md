@@ -1,67 +1,78 @@
 # Example: Strategy Memo Register
 
-**Prompt:** Write a strategy memo on winning back Ohio for the GOP in the midterms.
+**Prompt:** Write a strategy memo on how PH can defend Selangor in the next state election.
 
 ---
 
 **MEMORANDUM**
 
-**TO:** Senate Campaign Committee, Ohio
-**RE:** Path to Victory — OH Midterm Strategy
+**TO:** Pakatan Harapan — Selangor War Room
+**RE:** Path to Defending Selangor — PRN Strategy
 **DATE:** March 2026
 
 ---
 
 **SITUATION**
 
-Ohio has trended Republican in presidential years but remains volatile in off-cycles. The incumbent Democratic senator won by 6.8 points in 2024 despite Trump carrying the state by 8. That split-ticket gap — 14.8 points — indicates a candidate-quality problem, not a structural one. The electorate is reachable.
+Selangor is PH's crown jewel — 22 parliamentary seats, 56 DUN seats, and the nation's wealthiest state economy. PH has held Selangor since 2008. But GE15 exposed vulnerabilities: PN made gains in Malay-majority seats in Hulu Langat, Gombak, and Sabak Bernam. The three-cornered fight dynamics that once split the opposition now risk splitting the unity government's own base. Losing Selangor would be an existential blow.
 
 **KEY METRICS**
 
-- Registered voters: 8.1M. Turnout in 2022 midterm: 4.3M (53%).
-- Target turnout for victory: 4.5M with R+4 composition.
-- Critical counties: Hamilton (Cincinnati), Franklin (Columbus), Summit (Akron), Cuyahoga (Cleveland).
-- Hamilton County margin in 2022: D+9. In 2020: D+14. Trending favorable.
-- Rural overperformance needed: R+32 in counties <50K population (achieved R+28 in 2022).
+- DUN seats: 56 total. PH currently holds 37, BN holds 4, PN holds 15.
+- Target for majority: 29 seats minimum. Comfortable mandate: 35+.
+- Malay-majority DUN seats: 24. PH holds 11 of these. PN holds 13. This is the battlefield.
+- Chinese-majority seats: 14. PH holds all 14. Safe but turnout-dependent.
+- Mixed seats: 18. PH holds 12. Swing potential in 5.
+- Voter registration since Undi18: +680K new voters in Selangor. Skew: 62% Malay, 24% Chinese, 14% Indian/others.
+- PN's GE15 popular vote in Selangor: 34%. PH: 42%. BN: 19%. In straight fights, PH wins. In three-cornered fights, the math fractures.
 
 **HISTORICAL COMPARISON**
 
-The 2014 midterm provides the template. Portman's 2016 strategy — massive early-vote banking in suburban counties combined with rural turnout operations — produced a 21-point win. Key elements:
+The 2023 state election provides the template. PH defended Selangor with a 36-seat haul — down from 40 in 2018 but sufficient. Key factors:
 
-- Doors knocked: 2.8M (highest in state history at the time)
-- Early vote bank: 340K ballots before Election Day
-- Message discipline: Four issues (economy, opioids, trade, security), repeated without deviation for 14 weeks
+- BN-PH cooperation eliminated three-cornered fights in most seats
+- Turnout was 74% — lower than GE15's 79%. Higher turnout historically benefits PN in Malay seats.
+- PH held every Chinese-majority seat but lost ground in Gombak and Hulu Langat corridors
+
+The 2008 parallel is also instructive. BN lost Selangor by assuming urban support was locked in while ignoring suburban Malay discontent. PH must not repeat this error in reverse.
 
 **RECOMMENDED ACTIONS**
 
-1. **Candidate recruitment.** Finalize by June 2026. Requirements: private-sector background, no primary baggage, comfortable in suburban town halls. Avoid candidates who require "explaining" to independent voters.
+1. **Seat allocation with BN.** Finalize by 6 months before polling day. Non-negotiable principle: no three-cornered fights in any seat where PN won or finished within 5% in 2023. Every three-cornered fight is a gift to PN.
 
 2. **Message framework.** Three pillars only:
-   - Cost of living (grocery prices, housing, energy)
-   - Public safety (fentanyl, border, local crime stats)
-   - Education (parental rights, school quality, workforce)
-   - Do NOT engage on national grievance issues. Every minute spent on Washington drama is a minute not spent on kitchen-table economics.
+   - Cost of living (harga barang, housing affordability, public transport)
+   - Development delivery (MRT3, flood mitigation, water infrastructure — show tangible results)
+   - Stability vs chaos ("Do you want another Sheraton Move?")
+   - Do NOT engage on 3R issues (race, religion, royalty). Every minute spent on identity politics is a minute where PAS has the advantage.
 
-3. **Ground game targets.**
-   - Doors knocked: 3.2M minimum
-   - Early vote bank: 400K (15% increase over 2016 benchmark)
-   - Volunteer recruitment: 12K by August 2026
-   - Micro-targeting: Persuadable women 35-54 in suburban Hamilton, Franklin, and Summit counties
+3. **Ground game targets — Malay-majority seats.**
+   - Ceramah: minimum 3 per week per DUN in the 24 Malay-majority seats, starting 4 months out
+   - House visits: 50K households in swing DUNs (Gombak, Hulu Langat, Kuala Selangor corridor)
+   - Youth outreach: Undi18 voters are 22% of Selangor electorate. Deploy young candidates and social media teams in Malay-majority areas. PN owns TikTok in these constituencies. Counter or concede the demographic.
+   - Surau/mosque engagement: PH's weakest flank. At minimum, ensure candidates are visible in religious community events. Do not cede this space entirely to PAS.
 
-4. **Paid media allocation.**
-   - 60% broadcast/cable in Cleveland and Columbus DMAs
-   - 25% digital (targeted Facebook/YouTube in suburban zips)
-   - 15% direct mail (rural counties, early vote push)
-   - Total spend target: $38M
+4. **Turnout strategy — Chinese and Indian seats.**
+   - Turnout depression is the primary risk. Chinese and Indian voters who see a "safe" Selangor may stay home.
+   - Counter-narrative: "Every seat matters. 2018's 40 seats became 2023's 36. The trend is not in our favor."
+   - Target: 78% turnout in Chinese-majority seats (2023 was 72%). Each percentage point equals approximately 8K votes across 14 seats.
+
+5. **Paid media allocation.**
+   - 40% digital (Facebook, TikTok, YouTube — targeted by DUN and demographic)
+   - 30% ground materials (banners, flyers, ceramah logistics)
+   - 20% mainstream media (Malay-language print and broadcast)
+   - 10% events and voter engagement programs
+   - Total spend target: RM 45M across all 56 DUNs
 
 **RISK FACTORS**
 
-- Presidential approval below 42% nationalizes the race in our favor but may depress base turnout if voters feel disengaged.
-- A strong third-party or independent candidate in the race splits the anti-incumbent vote and narrows the path.
-- Candidate discipline failure. One off-message week in October costs 2-3 points with independents. Non-recoverable at that stage.
+- BN seat allocation breakdown. If UMNO insists on contesting seats where PH is stronger, three-cornered fights return and PN benefits. This is the single highest risk.
+- A national scandal or cabinet crisis that depresses PH-sympathetic voter turnout.
+- PN deploys a "green wave" narrative that consolidates Malay-Muslim support across Selangor's 24 Malay-majority DUNs. If PN takes 18+ of these seats, PH cannot compensate even with a Chinese and Indian sweep.
+- Low youth turnout. Undi18 voters have the lowest turnout rates. If the 680K new voters stay home disproportionately, projections based on registration numbers collapse.
 
 **BOTTOM LINE**
 
-Ohio is winnable with a disciplined candidate, a ground game that matches 2016 benchmarks, and a message that never strays from three kitchen-table issues. The numbers are there. The question is whether the candidate can resist the gravitational pull of national noise for 14 straight weeks.
+Selangor is defensible with disciplined seat allocation, a cost-of-living message that never strays into identity politics, and a ground game that matches 2023 benchmarks in Chinese seats while significantly exceeding them in Malay-majority DUNs. The numbers are there. The question is whether PH and BN can cooperate without a public fight that hands PN its narrative.
 
-History says most can't. The ones who win are the ones who do.
+History says coalition partners in Malaysia always fight in public. The ones who win are the ones who stop.
