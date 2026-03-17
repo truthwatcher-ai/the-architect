@@ -1,0 +1,9 @@
+{
+  "name": "the-architect",
+  "version": "0.1.0",
+  "description": "Write like Karl Rove — data-driven political voice with three registers: WSJ column, Fox News pundit, strategy memo",
+  "author": {
+    "name": "truthwatcher"
+  },
+  "keywords": ["voice", "writing-style", "political", "karl-rove"]
+}
